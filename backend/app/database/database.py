@@ -7,4 +7,9 @@ load_dotenv()
 SUPABASE_URL = os.getenv("SUPABASE_URL")
 SUPABASE_KEY = os.getenv("SUPABASE_KEY")
 
-supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
+supabase: Client | None = None
+if SUPABASE_URL and SUPABASE_KEY:
+    try:
+        supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
+    except Exception:  # pragma: no cover - fallback when keys are invalid
+        supabase = None
