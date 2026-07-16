@@ -197,6 +197,20 @@ PatentPilot/
 └── README.md
 ```
 
+# User Interface Preview: 
+
+<img width="1350" height="563" alt="image" src="https://github.com/user-attachments/assets/a7e343ab-921b-46a6-a869-a819bb3c1b83" />
+<img width="1344" height="468" alt="image" src="https://github.com/user-attachments/assets/46856173-0b9d-4066-b7fc-c6130ede806e" />
+<img width="1350" height="587" alt="image" src="https://github.com/user-attachments/assets/e4167445-7bda-41d6-af23-8ff92371afee" />
+<img width="1345" height="556" alt="image" src="https://github.com/user-attachments/assets/97a65ebf-11aa-475a-b49b-7d82549be145" />
+<img width="1349" height="555" alt="image" src="https://github.com/user-attachments/assets/0684419c-45e0-4d6d-98b7-ce317bc018d5" />
+<img width="1344" height="559" alt="image" src="https://github.com/user-attachments/assets/99550e08-a8a6-4aef-a0d5-46d46d3c3844" />
+
+
+
+
+
+
 ---
 
 # ⚙ Assumptions
